@@ -15,7 +15,7 @@ Created a Tesla Car Booking App using Expo
 <img src="tesla.gif" width="260" height="600" />
 
 
-#Steps to run this in your machine
+# Steps to run this in your machine
 
 1. Install expo cli
 2. Login to expo through the cli
